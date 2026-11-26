@@ -5,47 +5,50 @@
 # ProTube
 
 **A phone-first video app based on SmartTube.**
+# 🚀 ProTube
 
-ProTube brings SmartTube's YouTube playback experience to Android phones with a touch-friendly
-interface and mobile-specific playback controls. This fork focuses on phones; it does not include
-the original TV interface.
+### The YouTube Alternative You've Been Looking For.
 
-</div>
+A lightweight, ad-free video experience built on the foundation of SmartTube. Enjoy seamless video browsing, background playback, high-quality streaming, and a smooth interface without unnecessary trackers.
 
-## What ProTube adds
+## ✨ Features
 
-- **A phone-first interface:** browse, search, watch and manage settings with layouts and controls
-  designed for touch instead of a TV remote.
-- **A gesture-driven mini-player:** swipe down from the player to minimize it, swipe left, right or
-  down on the mini-player to dismiss it, and pull up to expand it back toward the full video.
-- **Mobile playback controls:** touch-friendly seeking, playback gestures, picture-in-picture and
-  background playback.
-- **More ways to enjoy videos:** features include comments, chapters, captions, SponsorBlock,
-  DeArrow and video downloads.
+- 🚫 **Completely Ad-Free** – Enjoy videos without intrusive advertisements.
+- 🎵 **Background Playback** – Listen to your favourite content even when the screen is off.
+- ⚡ **Ultra-Smooth UI** – Responsive and fluid navigation.
+- 🔒 **Zero Trackers** – Designed without unnecessary tracking components.
+- 🛡️ **VirusTotal Tested** – APK scanned using VirusTotal.
+- 📥 **Video Download** – Download supported content for offline access.
+- 🔑 **Account Login** – Sign in without requiring MicroG.
+- 📱 **Low-End Device Friendly** – Optimized for phones with limited hardware resources.
+- 🎬 **High-Resolution Playback** – High-resolution streaming options enabled.
+- 🎧 **Highest Audio Quality** – Enjoy the best available audio quality.
 
-## Built for a responsive feel
+## 🌟 Why ProTube?
 
-ProTube is tuned to keep browsing and playback responsive: feeds load progressively, transitions
-are designed to follow touch, and the mini-player keeps the active playback session when moving
-between the player and supported in-app screens. Playback uses Android Media3 with adaptive
-stream selection.
+Looking for a YouTube alternative that prioritizes performance, privacy, and convenience?
 
-Performance depends on the device, Android version and network. These optimizations are intended
-to improve responsiveness; they are not a guarantee that every device or video will be faster
-than another app.
+ProTube combines essential video features with a lightweight and smooth mobile experience, making it suitable for both powerful devices and low-spec Android phones.
 
-## Screenshots
+## 📥 Download
 
-| Browse | Player | Mini-player |
-| --- | --- | --- |
-| ![Browse](.github/assets/screens/channel.webp) | ![Player](.github/assets/screens/watch.webp) | ![Mini-player](.github/assets/screens/mini.webp) |
+Get the latest version from the [Releases](../../releases) section.
 
-| Comments |  Light theme |
-| --- | --- | --- |
-| ![Comments](.github/assets/screens/comments.webp) | ![Light theme](.github/assets/screens/light.webp) |
+1. Download the latest APK.
+2. Install it on your Android device.
+3. Open ProTube and enjoy!
 
-## Project
+## ⚙️ Project Information
 
-ProTube is an independent community fork of [SmartTube](https://github.com/yuliskov/SmartTube).
+- **App Name:** ProTube
+- **Platform:** Android
+- **Base Project:** SmartTube
+- **License:** Refer to the original project license and applicable modifications.
+
+---
+
+**ProTube – Less clutter. More experience.**
+
+*An independent community fork based on SmartTube. Not affiliated with or endorsed by YouTube or the original SmartTube developers.*
 It is not affiliated with or endorsed by YouTube or Google.
 

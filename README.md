@@ -42,7 +42,7 @@ than another app.
 
 | Comments | Downloads | Light theme |
 | --- | --- | --- |
-| ![Comments](.github/assets/screens/comments.webp) | ![Downloads](.github/assets/screens/downloads.webp) | ![Light theme](.github/assets/screens/light.webp) |
+| ![Comments](.github/assets/screens/comments.webp) | ![Light theme](.github/assets/screens/light.webp) |
 
 ## Project
 

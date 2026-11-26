@@ -40,7 +40,7 @@ than another app.
 | --- | --- | --- |
 | ![Browse](.github/assets/screens/channel.webp) | ![Player](.github/assets/screens/watch.webp) | ![Mini-player](.github/assets/screens/mini.webp) |
 
-| Comments | Downloads | Light theme |
+| Comments |  Light theme |
 | --- | --- | --- |
 | ![Comments](.github/assets/screens/comments.webp) | ![Light theme](.github/assets/screens/light.webp) |
 
